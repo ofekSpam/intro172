@@ -1,2 +1,2 @@
 # intro172
-My code work for the intro to CS course
+My code work for the intro to CS course.
