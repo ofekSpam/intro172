@@ -1,19 +1,19 @@
 /*
-* Add a description in your own words.
+* reprsents a point in the plane.
 */
-public class Point {
+public class Point { //
 
-	// Add a description in your own words.
+	//A constructor
 	public Point(int x, int y) {
 		
 	}
 	
-	// Add a description in your own words.
+	//Returns X-axis Value of the point.
 	public int getX() {
 		
 	}
 	
-	// Add a description in your own words.
+	//Returns Y-axis Value of the point.
 	public int getY() {
 		
 	}
