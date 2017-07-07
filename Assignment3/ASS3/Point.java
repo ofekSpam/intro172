@@ -13,7 +13,7 @@ public class Point { //
 	//Returns X-axis Value of the point.
 	public int getX() {
 	    return this.x;
-		
+	
 	}
 	
 	//Returns Y-axis Value of the point.
